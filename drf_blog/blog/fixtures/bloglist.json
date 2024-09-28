@@ -1,0 +1,47 @@
+
+[
+    {
+        "model":"blog.Blog",
+        
+        "fields":{
+            "title":"blog",
+            "subtitle": "fsdfsd ",
+            "details":"this is a dummy blog ",
+            "created":"2023-01-01T12:34:56Z",
+            "updated":"2023-01-01T12:34:56Z"
+        }
+    },
+    {
+        "model":"blog.Blog",
+        
+        "fields":{
+            "title":"ghf  blog",
+            "subtitle": "bnull",
+            "details":"this is a dummy blog ",
+            "created":"2023-01-01T12:34:56Z",
+            "updated":"2023-01-01T12:34:56Z"
+        }
+    },
+    {
+        "model":"blog.Blog",
+        
+        "fields":{
+            "title":"sdfsd id blog",
+            "subtitle": "bnull",
+            "details":"this is a dummy blog ",
+            "created":"2023-01-01T12:34:56Z",
+            "updated":"2023-01-01T12:34:56Z"
+        }
+    },
+    {
+        "model":"blog.Blog",
+        
+        "fields":{
+            "title":"without fsfsdfsdid blog",
+            "subtitle": "bnull",
+            "details":"this is a dummy blog ",
+            "created":"2023-01-01T12:34:56Z",
+            "updated":"2023-01-01T12:34:56Z"
+        }
+    }
+]
