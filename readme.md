@@ -1,7 +1,7 @@
 
 
-<pre>
 - done 
+<pre>
 Step 01: 
 >> create blog app -
 >> create model -
@@ -26,8 +26,10 @@ Step 03:
 >> create comment model -
 >> create comment -
 
-
 Step 04:
+>> api and documentation -
+
+Step 05:
 >> create react model
 >> create react
 
